@@ -49,6 +49,7 @@ div {
 
 .image-container {
   overflow: hidden;
+  display: block;
 }
 
 
